@@ -474,7 +474,7 @@ max-width: 500px;
 .features .box .img-holder::after{
     content: "";
     position: absolute;
-    bottom: 321px;
+    bottom: 0;
     right: 0;
     border-style: solid;
     border-width: 0px 0px 170px 500px;
@@ -490,7 +490,7 @@ max-width: 500px;
 } 
 .features .box h2{
     position: relative;
-    font-size: 40px;
+    font-size: 30px;
     margin: auto;
     width: fit-content;
 }
